@@ -30,3 +30,9 @@ You can get a good image from the official website (https://ubuntu.com/download/
 
 In Virtual Box, configure the following minimal settings:
 RAM = 2048MiB; 2 processors; Storage: 20GiB
+
+# Control Plane Node
+
+The first VM will be the Control Plane Node.
+
+<img width="1007" height="793" alt="image" src="https://github.com/user-attachments/assets/96194250-c9d7-406a-a474-64c5008c1103" />
