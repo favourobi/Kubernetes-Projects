@@ -9,4 +9,5 @@ RAM = 2048MiB; 2 processors; Storage: 20GiB
 
 The first VM will be the Control Plane Node.
 
+<img width="716" height="212" alt="image" src="https://github.com/user-attachments/assets/64838c0d-2ae6-4922-a26a-db7f6d635fae" />
 
