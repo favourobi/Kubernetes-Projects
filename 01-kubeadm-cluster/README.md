@@ -14,7 +14,7 @@ Throughout this project, each step is documented with explanations, commands, ve
 
 The objectives of this project are to:
 
-1. [Build a multi-node Kubernetes cluster consisting of one control plane node and two worker nodes using Oracle VirtualBox](01-kubeadm-cluster/Lab-Environment.md)
+1. [Build a multi-node Kubernetes cluster consisting of one control plane node and two worker nodes using Oracle VirtualBox](Lab-Environment.md)
 2. Install and configure Kubernetes manually using kubeadm, kubelet, and kubectl.
 3. Configure the underlying Ubuntu Server virtual machines to meet Kubernetes prerequisites.
 4. Install and configure a container runtime to support Kubernetes workloads.
