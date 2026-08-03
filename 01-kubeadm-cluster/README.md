@@ -18,7 +18,7 @@ The objectives of this project are to:
 2. [Installing and Configuring containerd](Containerd-Installation.md)
 3. [Installing Kubernetes Components (kubeadm)](Installing-k8s-component.md)
 4. [Initializing the Kubernetes Control Plane](Initializing-the-Control-Plane.md)
-5. Joining the Worker Nodes
+5. [Joining the Worker Nodes](Joining-the-worker-nodes.md)
 6. Installing the Container Network Interface (CNI)
 7. Verifying the Cluster
 8. Troubleshooting
