@@ -165,6 +165,13 @@ kubeadm join 192.168.56.10:6443 \
 
 Save this command because it will be executed on each worker node during the next stage of the project to securely join them to the Kubernetes cluster.
 
+If you did not get hold of this command, use this on your control plane
+
+```bash
+kubeadm token create --print-join-command
+```
+This command creates a new bootstrap token (if necessary) and prints the complete command required to join worker nodes to the cluster.
+
 ---
 
 ## Summary
