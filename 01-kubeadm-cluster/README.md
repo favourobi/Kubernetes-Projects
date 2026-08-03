@@ -15,10 +15,11 @@ Throughout this project, each step is documented with explanations, commands, ve
 The objectives of this project are to:
 
 1. [Build a multi-node Kubernetes cluster consisting of one control plane node and two worker nodes using Oracle VirtualBox](Lab-Environment.md)
-2. [Installing Kubernetes Components (kubeadm)]
-3. [Initializing the Kubernetes Control Plane]
-4. [Joining the Worker Nodes]
-5. [Installing the Container Network Interface (CNI)]
-6. [Verifying the Cluster]
-7. [Troubleshooting]
-8. [Conclusion]
+2. [Installing and Configuring containerd](Containerd-Installation.md)
+3. Installing Kubernetes Components (kubeadm)
+4. Initializing the Kubernetes Control Plane
+5. Joining the Worker Nodes
+6. Installing the Container Network Interface (CNI)
+7. Verifying the Cluster
+8. Troubleshooting
+9. Conclusion
