@@ -26,6 +26,14 @@ kubectl version --client
 
 These commands display the installed versions of the Kubernetes components and confirm that the installation completed successfully.
 
+If you did not get hold of the join command, you can get another easily from the control plane node.
+
+Use the command below:
+```bash
+kubeadm token create --print-join-command
+```
+This command creates a new bootstrap token (if necessary) and prints the complete command required to join worker nodes to the cluster.
+
 <img width="1891" height="242" alt="image" src="https://github.com/user-attachments/assets/613df957-3dbd-41b6-bc8e-32a8e4a7b99f" />
 
 ---
