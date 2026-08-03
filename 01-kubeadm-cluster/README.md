@@ -15,11 +15,10 @@ Throughout this project, each step is documented with explanations, commands, ve
 The objectives of this project are to:
 
 1. [Build a multi-node Kubernetes cluster consisting of one control plane node and two worker nodes using Oracle VirtualBox](Lab-Environment.md)
-2. Install and configure Kubernetes manually using kubeadm, kubelet, and kubectl.
-3. Configure the underlying Ubuntu Server virtual machines to meet Kubernetes prerequisites.
-4. Install and configure a container runtime to support Kubernetes workloads.
-5. Initialize the Kubernetes control plane and securely join worker nodes to the cluster.
-6. Deploy a Container Network Interface (CNI) plugin to enable communication between cluster nodes.
-7. Verify the health and functionality of the cluster using Kubernetes administrative commands.
-8. Develop practical skills in Kubernetes installation, cluster administration, troubleshooting, and validation.
-9. Produce clear, reproducible documentation that can serve as a reference for future Kubernetes projects and learning.
+2. [Installing Kubernetes Components (kubeadm)]
+3. [Initializing the Kubernetes Control Plane]
+4. [Joining the Worker Nodes]
+5. [Installing the Container Network Interface (CNI)]
+6. [Verifying the Cluster]
+7. [Troubleshooting]
+8. [Conclusion]
