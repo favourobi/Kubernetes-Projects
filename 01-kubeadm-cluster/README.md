@@ -20,6 +20,6 @@ The objectives of this project are to:
 4. [Initializing the Kubernetes Control Plane](Initializing-the-Control-Plane.md)
 5. [Joining the Worker Nodes](Joining-the-worker-nodes.md)
 6. [Installing the Container Network Interface (CNI)](Installing-the-CNI.md)
-7. Verifying the Cluster
+7. [Verifying the Cluster](verifying-the-cluster.md)
 8. Troubleshooting
 9. Conclusion
